@@ -1,16 +1,16 @@
-## Hi there 👋
+# Olá, eu sou João Gabriel 👋
 
-<!--
-**Jgmc2025/Jgmc2025** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full-Stack Software Developer construindo plataformas web escaláveis com TypeScript, React, Node.js, NestJS e Java — sempre com uma mentalidade criativa e de dono do produto.
 
-Here are some ideas to get you started:
+- 🎓 Sistemas de Informação — Centro de Informática, UFPE
+- 💼 Full Stack Engineer @ [Creatorsfy](#) (Berzerk Club)
+- 🧑‍🏫 Monitor de Introdução à Programação (Python) na UFPE
+- 🛠️ TypeScript · React · Node.js · NestJS · Java · Docker · Git/GitLab
+- 🤝 Metodologia ágil SCRUM (sprints, plannings, reviews)
+- 📫 jgcaldas19@gmail.com · [LinkedIn](https://www.linkedin.com/in/joão-gabrielmedeiros-caldas)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🧰 Stack
+
+`Python` `JavaScript` `TypeScript` `React` `Node.js` `NestJS` `Java` `Docker` `Git` `GitLab` `HTML5` `CSS3`
