@@ -28,12 +28,18 @@ Full-Stack Software Developer construindo plataformas web escaláveis com TypeSc
 
 ### 🚀 Projetos
 
-- **[hub](https://github.com/Jgmc2025/hub)** — Hub inteligente de recursos educacionais (FastAPI + React) com integração da API do Gemini para categorização automática de materiais didáticos
-- **Creatorsfy** — Plataforma que conecta marcas a influenciadores, com arquitetura de APIs em NestJS e TypeScript
-- **retail4best** — Plataforma SaaS voltada para o setor de varejo *(privado)*
-- **[avanade](https://github.com/Jgmc2025/avanade)** — App de cadastro e gerenciamento de tarefas com Angular, ASP.NET Core Web API e SQL Server
+- **[miniguia-ia-generativa-notebooklm](https://github.com/Jgmc2025/miniguia-ia-generativa-notebooklm)** — Miniguia de estudos sobre IA Generativa criado com NotebookLM
+- **[api-dioshopping](https://github.com/Jgmc2025/api-dioshopping)** — Backend criado durante o Labs na DIO com Node e TypeScript *(fork)*
+- **[dioshopping](https://github.com/Jgmc2025/dioshopping)** — E-commerce desenvolvido na live da DIO *(fork)*
 - **[newflix](https://github.com/Jgmc2025/newflix)** — Clone inspirado na Netflix, construído com HTML5, CSS3 e JavaScript
+- **[banco](https://github.com/Jgmc2025/banco)** — Teste de transferência e empréstimo bancário
 - **[java1](https://github.com/Jgmc2025/java1)** — API de testes de operações bancárias, desenvolvida em Java
+- **[avanade](https://github.com/Jgmc2025/avanade)** — App de cadastro e gerenciamento de tarefas com Angular, ASP.NET Core Web API e SQL Server
+- **[hub](https://github.com/Jgmc2025/hub)** — Hub inteligente de recursos educacionais (FastAPI + React) com integração da API do Gemini para categorização automática de materiais didáticos
+- **[vlab](https://github.com/Jgmc2025/vlab)** — Projeto em Python
+- **[teste-nestjs](https://github.com/Jgmc2025/teste-nestjs)** — Projeto de testes em TypeScript com NestJS
+- **[Projeto_de_IP](https://github.com/Jgmc2025/Projeto_de_IP)** — Trabalho de Introdução à Programação em Python
+- **[netflix-clone](https://github.com/Jgmc2025/netflix-clone)** — Clone da Netflix construído em curso ministrado na Digital Innovation One *(fork)*
 
 ---
 
