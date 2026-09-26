@@ -8,7 +8,7 @@ Full-Stack Software Developer construindo plataformas web escaláveis com TypeSc
 - 🧑‍🏫 Monitor de Introdução à Programação (Python) na UFPE — já ajudei mais de 50 estudantes
 - 🛠️ TypeScript · React · Node.js · NestJS · Java · Docker · Git/GitLab
 - 🤝 Metodologia ágil SCRUM (sprints, plannings, reviews)
-- 📫 jgcaldas19@gmail.com · [LinkedIn](https://www.linkedin.com/in/joão-gabriel-medeiros-caldas)
+- 📫 jgcaldas19@gmail.com · [LinkedIn](https://www.linkedin.com/in/joão-gabriel-medeiros-caldas) · [Portfólio](https://Jgmc2025.github.io)
 
 ---
 
@@ -39,7 +39,6 @@ Full-Stack Software Developer construindo plataformas web escaláveis com TypeSc
 - **[vlab](https://github.com/Jgmc2025/vlab)** — Projeto em Python
 - **[teste-nestjs](https://github.com/Jgmc2025/teste-nestjs)** — Projeto de testes em TypeScript com NestJS
 - **[Projeto_de_IP](https://github.com/Jgmc2025/Projeto_de_IP)** — Trabalho de Introdução à Programação em Python
-- **[netflix-clone](https://github.com/Jgmc2025/netflix-clone)** — Clone da Netflix construído em curso ministrado na Digital Innovation One *(fork)*
 
 ---
 
