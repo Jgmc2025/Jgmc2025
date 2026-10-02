@@ -34,17 +34,26 @@ Desenvolvedor de Software construindo plataformas com Python, TypeScript, React,
 
 ### 🚀 Projetos
 
+- **[budgeting-ai](https://github.com/Jgmc2025/budgeting-ai)** — API de orçamento pessoal em Java com Spring Boot e Spring AI que entende comandos de voz
+- **[academia-portais](https://github.com/Jgmc2025/academia-portais)** — Academia dos Portais: projeto em Java puro que aplica Design Patterns a um verificador de portais numerados
+- **[guia-tech-assistente](https://github.com/Jgmc2025/guia-tech-assistente)** — Assistente virtual com IA que orienta iniciantes a escolher uma trilha de estudos em tecnologia
+- **[deteccao-fraude-cartao-credito](https://github.com/Jgmc2025/deteccao-fraude-cartao-credito)** — Detecção de fraude em cartão de crédito com ML: dados desbalanceados, recall/F1, ajuste de limiar e SHAP
 - **[miniguia-ia-generativa-notebooklm](https://github.com/Jgmc2025/miniguia-ia-generativa-notebooklm)** — Miniguia de estudos sobre IA Generativa criado com NotebookLM
 - **[api-dioshopping](https://github.com/Jgmc2025/api-dioshopping)** — Backend criado durante o Labs na DIO com Node e TypeScript *(fork)*
 - **[dioshopping](https://github.com/Jgmc2025/dioshopping)** — E-commerce desenvolvido na live da DIO *(fork)*
 - **[newflix](https://github.com/Jgmc2025/newflix)** — Clone inspirado na Netflix, construído com HTML5, CSS3 e JavaScript
+- **[dio-desafio-github-primeiro-repositorio](https://github.com/Jgmc2025/dio-desafio-github-primeiro-repositorio)** — Desafio de projeto da DIO sobre Git e GitHub
 - **[banco](https://github.com/Jgmc2025/banco)** — Teste de transferência e empréstimo bancário
 - **[java1](https://github.com/Jgmc2025/java1)** — API de testes de operações bancárias, desenvolvida em Java
 - **[avanade](https://github.com/Jgmc2025/avanade)** — App de cadastro e gerenciamento de tarefas com Angular, ASP.NET Core Web API e SQL Server
 - **[hub](https://github.com/Jgmc2025/hub)** — Hub inteligente de recursos educacionais (FastAPI + React) com integração da API do Gemini para categorização automática de materiais didáticos
 - **[vlab](https://github.com/Jgmc2025/vlab)** — Projeto em Python
+- **[Projeto-DS](https://github.com/Jgmc2025/Projeto-DS)** — Projeto em JavaScript
 - **[teste-nestjs](https://github.com/Jgmc2025/teste-nestjs)** — Projeto de testes em TypeScript com NestJS
 - **[Projeto_de_IP](https://github.com/Jgmc2025/Projeto_de_IP)** — Trabalho de Introdução à Programação em Python
+- **[netflix-clone](https://github.com/Jgmc2025/netflix-clone)** — Clone da Netflix construído no curso da Digital Innovation One *(fork)*
+- **[Jgmc2025](https://github.com/Jgmc2025/Jgmc2025)** — README do perfil do GitHub
+- **[Jgmc2025.github.io](https://github.com/Jgmc2025/Jgmc2025.github.io)** — Código-fonte do meu portfólio
 
 ---
 
