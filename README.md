@@ -1,6 +1,6 @@
 # Olá, eu sou João Gabriel 👋
 
-Desenvolvedor de Software construindo plataformas com Python, JavaScript, TypeScript, React, Node.js, NestJS, Java e Go, com integrações de IA — sempre com uma mentalidade criativa e de dono do produto.
+Engenheiro de Software construindo plataformas com Python, JavaScript, TypeScript, React, Node.js, NestJS, Java e Go, com integrações de IA — sempre com uma mentalidade criativa e de dono do produto.
 
 - 🎓 Sistemas de Informação — Centro de Informática, UFPE (05/2025 – 12/2028, previsão)
 - 🎓 Engenharia de Telecomunicações — UFPE (04/2023 – 04/2024)
