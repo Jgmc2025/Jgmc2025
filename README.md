@@ -6,9 +6,9 @@ Engenheiro de Software construindo plataformas com Python, JavaScript, TypeScrip
 - 🎓 Engenharia de Telecomunicações — UFPE (04/2023 – 04/2024)
 - 💼 Full Stack Engineer @ Creatorsfy (Berzerk Club) — 12/2025 – 07/2026
 - 🧑‍🏫 Monitor de Introdução à Programação (Python) na UFPE — 09/2025 – 07/2026, mais de 50 estudantes auxiliados
-- 🛠️ Python · JavaScript · TypeScript · Java · Go · React · Node.js · NestJS · Docker · Git/GitLab
+- 🛠️ Python · JavaScript · TypeScript · Java · Go · React · Node.js · NestJS · Docker · Git/GitLab · Inteligência Artificial (IA) · Análise de Dados
 - 🤝 Metodologia ágil SCRUM (sprints, plannings, reviews)
-- 📫 jgcaldas19@gmail.com · jgmc@cin.ufpe.br · +55 81 99481-3230
+- 📫 jgmc@cin.ufpe.br · +55 81 99481-3230
 - 🔗 [LinkedIn](https://www.linkedin.com/in/joão-gabriel-medeiros-caldas) · [Portfólio](https://Jgmc2025.github.io) · [GitHub](https://github.com/Jgmc2025)
 
 ---
@@ -36,6 +36,10 @@ Engenheiro de Software construindo plataformas com Python, JavaScript, TypeScrip
 
 ### 🚀 Projetos
 
+- **[dashboard-porsche-vendas](https://github.com/Jgmc2025/dashboard-porsche-vendas)** — Dashboard interativa de vendas Porsche em HTML único, com KPIs, filtros e gráficos clicáveis sobre receita por família de modelo, forma de pagamento e estado
+- **[dashboard-vendas-xbox](https://github.com/Jgmc2025/dashboard-vendas-xbox)** — Dashboard de vendas de assinaturas Xbox Game Pass em Excel, com KPIs, filtros e gráficos
+- **[projeto-imposto-de-renda-excel](https://github.com/Jgmc2025/projeto-imposto-de-renda-excel)** — Organizador de Imposto de Renda em Excel, com menu de navegação, validação de dados, informes bancários com total automático e links da Receita Federal
+- **[simulador-fundos-imobiliarios](https://github.com/Jgmc2025/simulador-fundos-imobiliarios)** — Simulador em Excel que projeta o patrimônio e os dividendos mensais de fundos imobiliários (com VF), em cenários de 2 a 30 anos
 - **[budgeting-ai](https://github.com/Jgmc2025/budgeting-ai)** — API de orçamento pessoal em Java com Spring Boot e Spring AI que entende comandos de voz
 - **[academia-portais](https://github.com/Jgmc2025/academia-portais)** — Academia dos Portais: projeto em Java puro que aplica Design Patterns a um verificador de portais numerados
 - **[guia-tech-assistente](https://github.com/Jgmc2025/guia-tech-assistente)** — Assistente virtual com IA que orienta iniciantes a escolher uma trilha de estudos em tecnologia
@@ -61,14 +65,16 @@ Engenheiro de Software construindo plataformas com Python, JavaScript, TypeScrip
 
 ### 🧰 Stack
 
-`Python` `JavaScript` `TypeScript` `Java` `Go` `React` `Node.js` `NestJS` `Docker` `Git` `GitLab` `HTML5` `CSS3`
+`Python` `JavaScript` `TypeScript` `Java` `Go` `React` `Node.js` `NestJS` `Docker` `Git` `GitLab` `HTML5` `CSS3` `Inteligência Artificial (IA)` `Análise de Dados`
 
 ### 🎯 Competências
 
-`Desenvolvimento Full-Stack` `Arquitetura e Design de APIs` `SCRUM` `Integração com IA` `Criatividade e dedicação na resolução de problemas`
+`Desenvolvimento Full-Stack` `Arquitetura e Design de APIs` `SCRUM` `Integração com IA` `Análise de Dados` `Desenvolvimento Java com IA` `Criatividade e dedicação na resolução de problemas`
 
 ### 📚 Certificações
 
+- Dados e IA na Prática — ReclameAQUI (bootcamp, 29h) (out/2026)
+- Java com Inteligência Artificial — Itaú (bootcamp, 45h) (out/2026)
 - Go (Golang) Fundamentals: Simple, Fast Programs for Beginners — Cursa (out/2026)
 - Learn Golang — Cursa (out/2026)
 - GO Lang full course for beginners — Cursa (out/2026)
@@ -77,10 +83,10 @@ Engenheiro de Software construindo plataformas com Python, JavaScript, TypeScrip
 - Inter Frontend Developer — Banco Inter (bootcamp, 99h) (set/2026)
 - Oracle Java Foundations: Training and Assessment — Oracle (set/2026)
 - API RESTful com SpringBoot — Udemy (6h) (set/2026)
-- [Programação em Java do Básico ao Avançado — Udemy (35h)](https://ude.my/UC-a83f5472-7429-4a25-8d24-8393a0d72fba) (ago/2026)
-- [Generative AI — Google](https://www.skills.google/public_profiles/74505564-e8c2-4e9c-abee-c1b92f426d6a/badges/23908111?locale=pt_BR) (abr/2026)
-- [Generative AI — Databricks](https://credentials.databricks.com/2c9ad369-1233-4e7e-b958-83d8442563cc) (abr/2026)
-- [Python for Data Science — IBM](https://courses.cognitiveclass.ai/certificates/541bae0a9d724e49a46fb7690d6c685f) (abr/2026)
+- Programação em Java do Básico ao Avançado — Udemy (35h) (ago/2026)
+- Generative AI — Google (abr/2026)
+- Generative AI — Databricks (abr/2026)
+- Python for Data Science — IBM (abr/2026)
 - Conhecimentos Bancários — Banco do Brasil / Estratégia Concursos (63h) (mar/2025)
 
 ### 🌎 Idiomas
